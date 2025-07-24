@@ -1,0 +1,7 @@
+Git
+JavaScript / TypeScript
+Playwright
+UI-автоматизация
+API-тестирование
+CI/CD
+Docker
